@@ -1,9 +1,17 @@
-# Simple Calculator
+## Simple JavaScript Calculator Arithmetic Functions
 
-A basic calculator program written in JavaScript.
+This project contains a small collection of basic arithmetic functions written in JavaScript.
+It demonstrates how to define functions, perform calculations, and print results using `console.log()`.
 
-## How to Run
+## Features
 
-```bash
-node calculator.js
-```
+The script includes the following operations:
+
+- **Addition**
+- **Subtraction**
+- **Multiplication**
+- **Division** (with zero-division protection)
+
+Each function accepts two numbers and returns the computed result.
+
+## File Structure
