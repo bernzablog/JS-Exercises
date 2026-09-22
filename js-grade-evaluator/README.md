@@ -23,9 +23,9 @@ This project runs with Node.js. Once Node is installed:
 
 ## Example Output
 
-With learnerName = "Ana Santos", score1 = 90, score2 = 85, score3 = 88:
+With learnerName = "Elise Ablog", score1 = 90, score2 = 85, score3 = 88:
 
-    Ana Santos has an average of 87.67 and Passed.
+    Elise Ablog has an average of 87.67 and Passed.
 
 ## Notes
 
